@@ -1,0 +1,5 @@
+In just 40 days Better Code Hub will be closed. Pleaseunsubscribe from this e-mail list if you have taken notice and took the required actions so that we no longer send you reminders. In any other case, please read the content below.
+
+Since its launch in 2016, Better Code Hub (BCH) has given you control over the quality of your code when developing your software. However, moving forward, we have decided to focus our resources on the development of our Sigrid platform and have decided to shut down BCH.
+
+Sigrid is in constant evolution, committed to supporting developers when creating, developing and maintaining a high quality code. We have decided to streamline BCH into our Sigrid platform and close BCH on December 31, 2022.
